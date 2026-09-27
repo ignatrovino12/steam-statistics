@@ -57,7 +57,7 @@ Apps Dataset
 │       ├── id         → integer
 │       └── description → string
 │
-├── metacritic         → dict
+├── metacritic         → dict (optional)
 │   ├── score          → integer
 │   └── url            → string
 │
