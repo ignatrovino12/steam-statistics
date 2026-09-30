@@ -1,7 +1,17 @@
+# Environment variables
+.env
+
+# Virtual environment
 .venv/
+venv/
+
+# Python
 __pycache__/
 *.pyc
-.env
+
+# Vscode
 .vscode/
+
+# Data
 data/raw/
 data/processed/
